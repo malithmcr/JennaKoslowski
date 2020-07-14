@@ -1,4 +1,4 @@
-## Jenna <3
+## Jenna :coffee: :arrow_right: :computer:
 <!--
 **JennaKoslowski/JennaKoslowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
