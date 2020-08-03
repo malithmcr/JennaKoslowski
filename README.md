@@ -19,11 +19,9 @@ their companies and play to their strengths in order to increase their sales. Du
 
 ### Future Projects
 
-My currrent project is creating an advice generator utilizing [this API](https://api.adviceslip.com/). The GitHub repo is [here](https://github.com/JennaKoslowski/Advice).
+I am planning a web application that helps decide what your next read (or batch of reads) should be. I eventually plan to make this into an app using React Native as well.
 
-After I'm done with that I plan to create a web application that helps decide what your next read (or batch of reads) should be. I have been an active 
-participant in the online book community for years and I know picking the next read is one of the most difficult choices sometimes. I eventually plan to make this into
-an app using React Native as well.
+I have been an active participant in the online book community for years and I know picking the next read is one of the most difficult choices sometimes.
 
 Finally, I do plan to redo my portfolio site as I am no longer happy with the design of my current one.
 
