@@ -7,6 +7,8 @@ Thank you for dropping by my page!
  
 If you would like to see my porfolio site it is located at [jennakoslowski.github.io/](https://jennakoslowski.github.io/)
 
+You can also follow along on [Twitter](https://twitter.com/JennaKoslowski) or [Instagram](https://www.instagram.com/jenna.codes/)!
+
 ### About Me
 
 I am a front-end web developer currently open for a new job. I live in Orlando but would work remotely or consider relocating.
