@@ -27,3 +27,7 @@ I have been an active participant in the online book community for years and I k
 You can always support me and my projects by donating [here](https://ko-fi.com/jkimexploring).
 
 #### I hope you have a wonderful day!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=jennakoslowski&theme=<buefy>" />
+
+![Profile views](https://gpvc.arturio.dev/jennakoslowski) as of 8/4/2020
